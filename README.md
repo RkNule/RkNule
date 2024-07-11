@@ -9,6 +9,7 @@ Hi, I'm Rohan Nule, a passionate Java developer specializing in backend developm
 - **Databases**: MySQL, JDBC
 - **Markup Languages**: HTML
 - **CI/CD Tools**: Basic Jenkins
+- **Architecture**: Microservices
 
 ## Projects
 1. **[The Java Banking System](https://github.com/RkNule/The-Java-Banking-System)**
